@@ -1,0 +1,6 @@
+{
+  "name": "@types/color-blind",
+  "version": "0.1.1",
+  "typings": "index.d.ts",
+  "license": "MIT"
+}
